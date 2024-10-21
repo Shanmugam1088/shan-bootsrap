@@ -1,0 +1,13 @@
+Git Command:
+1.  ls
+2. cd d:/foldername
+3.  git init
+4.git remote add origin https://github.com/chitta2015/fgfd.git
+5.git remote -v
+
+6.  git add .
+7.  git commit -m "commit message"
+  
+8.  git push origin master
+
+4.git remote remove origin(require use)
